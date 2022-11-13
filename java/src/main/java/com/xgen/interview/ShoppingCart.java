@@ -40,7 +40,7 @@ public class ShoppingCart implements IShoppingCart {
         this(pricer);
 
         switch (currency) {
-            case EURO:
+            case EUR:
                 CURRENCY = String.format("€");
                 break;
             case RON:
