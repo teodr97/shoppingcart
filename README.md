@@ -1,5 +1,7 @@
 # ShoppingCart
 
+## Time spent: ~ 2 Hrs 50 Mins
+
 This is a partial implementation of the software behind a supermarket till system.
 It is intended for use as a take-home project by candidates. We don't consider the existing implementations high-quality code.
 
